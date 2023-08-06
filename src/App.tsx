@@ -32,7 +32,7 @@ function App() {
         </div>
         <h2 className="text-xl font-bold mb-3">About me</h2>
         <p className="text-gray-700 text-justify">
-          A passionate tech-guy with a strong engineering background. I've pioneered in Blockchain development and led research.<br/> Blending my love for technology with lessons learned from coaching basketball, I'm dedicated to creating scalable, secure and open systems.
+          A passionate tech-guy with a strong engineering background. I love building in Blockchain space and led research.<br/> Blending my love for technology with lessons learned from coaching basketball, I'm dedicated to creating scalable, secure and open systems.
         </p>
       </div>
 
@@ -53,7 +53,7 @@ function App() {
             <a href="https://daolize.com" target={"_blank"} className="w-auto self-center mt-4 bg-white border-blue-500 border-0 text-blue-500 text-center rounded-3xl py-2 px-6 hover:bg-blue-600 hover:text-white">Find out more</a>
           </div>
           <div className="bg-white rounded-lg shadow-md p-6 flex flex-col m-2 md:w-5/12">
-            <img className="w-20 h-20 object-cover rounded-full" src="/imgs/tproof-logo.avif" alt="Project 1" />
+            <img className="w-20 h-20 object-cover rounded-full" src="/imgs/tproof-logo.png" alt="Project 1" />
             <h3 className="text-xl font-bold mt-4">tProof</h3>
             <p className="text-gray-700 mt-2 flex-grow">Open source blockchain evidence that a file exists at a certain date with NFT as receipt.</p>
             <a href="https://tproof.io" target={"_blank"} className="w-auto self-center mt-4 bg-white border-blue-500 border-0 text-blue-500 text-center rounded-3xl py-2 px-6 hover:bg-blue-600 hover:text-white">Find out more</a>

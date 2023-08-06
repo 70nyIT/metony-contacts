@@ -20,7 +20,7 @@ function App() {
           <a href="https://twitter.com/0xMeTony" data-tooltip-target="tooltip-twitter" className="text-blue-400 hover:text-blue-600" target={"_blank"}>
             <FontAwesomeIcon icon={faTwitterSquare} size={"xl"} />
           </a>
-          <a href="https://warpcast.com/metony" className="text-purple-500 hover:text-purple-700" target={"_blank"}>
+          <a href="https://warpcast.com/metony" className="text-purple-400 hover:text-purple-600" target={"_blank"}>
             <FontAwesomeIcon icon={faArchway} size={"xl"} />
           </a>
           <a href="https://github.com/70nyIT" className="text-neutral-900 hover:text-neutral-950" target={"_blank"}>
